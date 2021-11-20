@@ -1,0 +1,8 @@
+{
+  "name": "z-express-todo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zhangzj97/z-express-todo.git",
+  "author": "zhangzejie <987883389@qq.com>",
+  "license": "MIT"
+}
